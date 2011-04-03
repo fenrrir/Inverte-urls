@@ -1,0 +1,7 @@
+{
+  "name": "Inverte urls",
+  "description": "Através do menu de contexto (botão direito), fornece ao usuário a opção de inverter a url do link e abrí-lo em nova aba. Esse recurso é útil pois alguns sites brasileiros mascaram a url de destino invertida, redirecionando o usuário a páginas de propagandas antes de chegar ao link desejado.",
+  "version": "1.1",
+  "permissions": ["contextMenus"],
+  "background_page": "background.html"
+}
