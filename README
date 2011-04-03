@@ -1,0 +1,5 @@
+Extensão para o Google Chrome que através do menu de contexto (botão direito) fornece ao usuário a opção de inverter a url do link 
+e abrí-lo em nova aba. Esse recurso é útil pois alguns sites brasileiros mascaram a url de destino invertida, 
+redirecionando o usuário a páginas de propagandas antes de chegar ao link desejado.
+
+Para instalar vá na seção de downloads do projeto e clique na extensão.
